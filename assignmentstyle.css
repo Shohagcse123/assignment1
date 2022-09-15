@@ -1,0 +1,30 @@
+body{
+    margin: 3px;
+    padding: 5px;
+    background-color: rgb(225, 230, 230);
+}
+
+#name{
+    text-decoration: solid;
+    border-radius: 1%;
+    height: 90px;
+    width: 100%;
+    background-color: green;
+}
+img{
+    text-align: right;
+    border-radius: 50%;
+    height: 90px;
+    width: 85px;
+    float: right;
+}
+
+
+
+table, th, td {
+    border:1px solid rgb(145, 121, 57);
+  }
+
+  #solidLine{
+    border: 0.1px solid;
+  }
