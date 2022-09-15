@@ -9,7 +9,8 @@ body{
     border-radius: 1%;
     height: 90px;
     width: 100%;
-    background-color: green;
+    background-color: rgb(164, 180, 185);
+    padding: 5px;
 }
 img{
     text-align: right;
